@@ -1,0 +1,24 @@
+{
+  "originHash" : "e837b152fbd7c0cda4fb5a20365b32a0a4a0563b7ef5ac6f115971c4c338f9f3",
+  "pins" : [
+    {
+      "identity" : "rxswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactiveX/RxSwift.git",
+      "state" : {
+        "revision" : "c7c7d2cf50a3211fe2843f76869c698e4e417930",
+        "version" : "6.8.0"
+      }
+    },
+    {
+      "identity" : "uitracking",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apfdamascena/UITracking",
+      "state" : {
+        "branch" : "main",
+        "revision" : "374f8bb79ece9d57917e8fd0c1b87784b4f4188e"
+      }
+    }
+  ],
+  "version" : 3
+}
